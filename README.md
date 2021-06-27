@@ -1,1 +1,1 @@
-"# spaulding-band-page" 
+Page for the band Michael Spaulding
